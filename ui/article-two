@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            article two | Niladri Pal
+        </title>
+        <meta name="viewport" content="width=device-width" initial-scale=1>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article Two
+        </h3>
+        <div>
+            Jan 23,2018
+        </div>
+        
+        <div>
+            <p>
+                This is the content is my second article.
+        </div>
+    </body>
+</html>
